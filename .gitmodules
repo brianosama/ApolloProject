@@ -1,0 +1,3 @@
+[submodule "ApolloHardware"]
+	path = ApolloHardware
+	url = git@github.com:brianosama/ApolloHardware.git
